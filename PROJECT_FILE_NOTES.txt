@@ -1,0 +1,15 @@
+Project organization notes
+
+Included:
+- Source and cleaned datasets
+- Python analysis/model scripts
+- Power BI project files (latest version plus previous project versions)
+- Churn analysis visualizations
+- README documentation
+
+Excluded from the GitHub-ready package because they are not part of the churn project itself:
+- Seaborn_Matplotlib_Pandas_Guide.pdf
+- SKS Data Science (1).pdf
+- What is Black Box Testing_ Types and Real QA Examples.jpg
+
+These appear to be reference/learning materials rather than project deliverables.
